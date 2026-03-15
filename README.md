@@ -19,41 +19,16 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> About Me
 
-```golang
-package main
+I'm a **Full Stack Software Developer** from India 🇮🇳, focused on building **scalable SaaS platforms, high-performance backend systems, and enterprise-grade architectures**.
 
-import "fmt"
+I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for distributed, high-performance services**.
 
-type Developer struct {
-	Name        string
-	Title       string
-	Location    string
-	Focus       []string
-	CurrentWork string
-	Website     string
-	OpenTo      string
-}
-
-func main() {
-	me := Developer{
-		Name:     "Saumay Pathak",
-		Title:    "Full Stack Software Developer",
-		Location: "India 🇮🇳",
-		Focus: []string{
-			"SaaS Platforms & Multi-Tenant Systems",
-			"High-Performance Backend with Golang",
-			"Scalable Microservices Architecture",
-			"Full Stack Web Applications",
-		},
-		CurrentWork: "Building enterprise-grade SaaS platforms",
-		Website:     "https://saumaypathak.in",
-		OpenTo:      "Freelance Projects & Collaborations",
-	}
-
-	fmt.Println("Hello World! I'm", me.Name)
-	fmt.Println("Currently:", me.CurrentWork)
-}
-```
+- 🔭 &nbsp; Currently building **SaaS platforms & multi-tenant systems**
+- ⚙️ &nbsp; Designing **scalable backend architectures & microservices**
+- 🌱 &nbsp; Learning **Golang & distributed systems**
+- 🤝 &nbsp; Open to **collaborations on SaaS and backend projects**
+- 💼 &nbsp; Available for **freelance development work**
+- 🌐 &nbsp; Portfolio — [saumaypathak.in](https://saumaypathak.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -127,26 +102,6 @@ func main() {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saumay-Pathak&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Saumay-Pathak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
