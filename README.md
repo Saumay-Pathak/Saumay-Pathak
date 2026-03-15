@@ -162,8 +162,6 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 
 <br/>
 
-⭐ **If you find my work useful, consider starring my repositories!**
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
