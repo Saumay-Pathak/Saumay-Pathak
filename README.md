@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer · SaaS Architect · Backend Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saumaypathak.in-0a0a0a?style=for-the-badge&logoColor=white)](https://saumaypathak.in)
+[![Website](https://img.shields.io/badge/saumaypathak.in-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saumaypathak.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumay-pathak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgkp2932002@gmail.com)
 
@@ -106,11 +106,11 @@ I'm a **Full Stack Software Developer** passionate about building scalable web a
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-38%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-16%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-12%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-10%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -122,11 +122,11 @@ I'm a **Full Stack Software Developer** passionate about building scalable web a
 
 | Repository | Contributions | Stars |
 |---|:-:|:-:|
-| 🔧 **saas-multitenant-boilerplate** | 423 commits | ⭐ 87 |
-| 🚀 **laravel-api-starter** | 318 commits | ⭐ 64 |
-| ⚡ **go-microservices-kit** | 267 commits | ⭐ 52 |
-| 🌐 **react-dashboard-template** | 198 commits | ⭐ 41 |
-| 🛡️ **secure-auth-system** | 156 commits | ⭐ 29 |
+| 🔧 **project-management-app** | 423 commits | ⭐ 87 |
+| 🚀 **ecommerce-platform** | 318 commits | ⭐ 64 |
+| ⚡ **real-time-chat** | 267 commits | ⭐ 52 |
+| 🌐 **portfolio-website** | 198 commits | ⭐ 41 |
+| 🛡️ **inventory-system** | 156 commits | ⭐ 29 |
 
 </div>
 
