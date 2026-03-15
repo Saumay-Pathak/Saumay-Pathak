@@ -1,167 +1,201 @@
 <div align="center">
 
-# 🚀 Saumay Pathak
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saumay%20Pathak&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Backend%20Engineer&descAlignY=60&descSize=18"/>
 
-### Full Stack Software Developer • SaaS Architect • Backend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&height=60&lines=🚀+Full+Stack+Software+Developer;🏗️+SaaS+%26+Multi-Tenant+Architect;⚡+High-Performance+Backend+Engineer;🌱+Golang+%26+Distributed+Systems+Learner;💼+Available+for+Freelance+Projects" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;SaaS+Platform+Builder;Backend+Architecture+Specialist;Golang+Learner;Open+for+Freelance+Projects&center=true&width=600&height=45">
+<br/>
 
-[![Website](https://img.shields.io/badge/Portfolio-saumaypathak.in-black?style=for-the-badge\&logo=google-chrome)](https://saumaypathak.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumay%20Pathak-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/saumay-pathak)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rajgkp2932002@gmail.com)
-
-</div>
-
----
-
-# 🧑‍💻 About Me
-
-I'm a **Full Stack Software Developer** focused on building **scalable SaaS applications, backend systems, and enterprise-grade architectures**.
-
-I specialize in **PHP, Laravel, React.js**, and backend architecture while expanding into **Golang for high-performance services**.
-
-* 🔭 Building **SaaS platforms & multi-tenant systems**
-* ⚙️ Designing **scalable backend architectures**
-* 🌱 Learning **Golang & distributed systems**
-* 💼 **Open for freelance development**
-* 🧠 Passionate about **system design & performance optimization**
-
-🌐 Portfolio
-https://saumaypathak.in
-
----
-
-# 🧠 Core Expertise
-
-| Domain       | Technologies                             |
-| ------------ | ---------------------------------------- |
-| Backend      | PHP, Laravel, Golang, Node.js            |
-| Frontend     | React.js, Next.js, TypeScript            |
-| Databases    | MySQL, PostgreSQL, MongoDB, Redis        |
-| Architecture | SaaS Multi-Tenant Systems, Microservices |
-| DevOps       | Docker, Nginx, CI/CD, Linux Servers      |
-| Security     | JWT Auth, OAuth, Secure APIs             |
-
----
-
-# 🧰 Tech Stack
-
-## Backend
-
-![PHP](https://skillicons.dev/icons?i=php,laravel,go,python,nodejs)
-
-## Frontend
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind)
-
-## Databases
-
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
-
-## DevOps
-
-![DevOps](https://skillicons.dev/icons?i=docker,nginx,aws,gcp,linux,git)
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaumayPathak&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumayPathak&layout=compact&theme=tokyonight&hide_border=true">
+[![Website](https://img.shields.io/badge/🌐%20saumaypathak.in-181717?style=for-the-badge&logoColor=white)](https://saumaypathak.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumay-pathak)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgkp2932002@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saumay-Pathak&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)](https://github.com/Saumay-Pathak)
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+
+```golang
+package main
+
+import "fmt"
+
+type Developer struct {
+	Name        string
+	Title       string
+	Location    string
+	Focus       []string
+	CurrentWork string
+	Website     string
+	OpenTo      string
+}
+
+func main() {
+	me := Developer{
+		Name:     "Saumay Pathak",
+		Title:    "Full Stack Software Developer",
+		Location: "India 🇮🇳",
+		Focus: []string{
+			"SaaS Platforms & Multi-Tenant Systems",
+			"High-Performance Backend with Golang",
+			"Scalable Microservices Architecture",
+			"Full Stack Web Applications",
+		},
+		CurrentWork: "Building enterprise-grade SaaS platforms",
+		Website:     "https://saumaypathak.in",
+		OpenTo:      "Freelance Projects & Collaborations",
+	}
+
+	fmt.Println("Hello World! I'm", me.Name)
+	fmt.Println("Currently:", me.CurrentWork)
+}
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SaumayPathak&theme=tokyonight&hide_border=true">
+### 🔙 Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 Activity Graph
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumayPathak&theme=tokyo-night">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saumay-Pathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Saumay-Pathak&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumay-Pathak&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&langs_count=8" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaumayPathak&theme=tokyonight&no-frame=true&row=1&column=7">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saumay-Pathak&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🚀 Featured Projects
-
-| Project                    | Description                                        | Tech            |
-| -------------------------- | -------------------------------------------------- | --------------- |
-| SaaS Multi Tenant Platform | Enterprise SaaS architecture with tenant isolation | Golang, MongoDB |
-| HRMS System                | Complete HR management system                      | Laravel, React  |
-| Ecommerce Platform         | Scalable ecommerce backend                         | PHP, MySQL      |
-| Inventory Management       | Enterprise inventory system                        | Laravel         |
-| Automation Platform        | Workflow automation system                         | Node.js         |
-
----
-
-# 📦 What I Build
-
-✔ SaaS Platforms
-✔ Enterprise Web Applications
-✔ Backend APIs
-✔ Scalable Microservices
-✔ Multi-Tenant Systems
-✔ Cloud-Ready Architectures
-
----
-
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Saumay-Pathak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💼 Freelance Availability
+## 🚀 Featured Projects
 
-I’m open for:
+| 🛠️ Project | 📋 Description | ⚡ Tech |
+|---|---|---|
+| **Project Management App** | Full-featured PM tool with real-time collaboration | Laravel, React, Redis |
+| **Ecommerce Platform** | Scalable multi-vendor ecommerce backend | PHP, MySQL, Redis |
+| **Real-Time Chat** | WebSocket-powered messaging system | Node.js, MongoDB |
+| **Portfolio Website** | Personal portfolio with animations | React, TailwindCSS |
+| **Inventory System** | Enterprise inventory & billing management | Laravel, PostgreSQL |
 
-* SaaS Development
-* Full Stack Applications
-* Backend APIs
-* System Architecture Design
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📩 Contact: **[rajgkp2932002@gmail.com](mailto:rajgkp2932002@gmail.com)**
-
----
-
-# 🎯 Developer Quote
-
-> “First solve the problem. Then write the code.” – John Johnson
-
----
+## 🐍 Contribution Snake
 
 <div align="center">
 
-⭐ **If you like my work, consider giving a star to my repositories**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Freelance Availability
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║          🟢  OPEN FOR FREELANCE WORK                 ║
+╠══════════════════════════════════════════════════════╣
+║  ✅  SaaS Platform Development                       ║
+║  ✅  Full Stack Web Applications                     ║
+║  ✅  Backend APIs & Microservices                    ║
+║  ✅  System Architecture & Design                    ║
+║  ✅  Performance Optimization                        ║
+╠══════════════════════════════════════════════════════╣
+║  📩  rajgkp2932002@gmail.com                         ║
+║  🌐  saumaypathak.in                                 ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+> *"First solve the problem. Then write the code."*
+
+<br/>
+
+⭐ **If you find my work useful, consider starring my repositories!**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
