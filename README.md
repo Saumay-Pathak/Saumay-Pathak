@@ -15,9 +15,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> About Me
+## 👨‍💻 About Me
 
 I'm a **Full Stack Software Developer** from India 🇮🇳, focused on building **scalable SaaS platforms, high-performance backend systems, and enterprise-grade architectures**.
 
@@ -28,15 +26,16 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 - 🌱 &nbsp; Learning **Golang & distributed systems**
 - 🤝 &nbsp; Open to **collaborations on SaaS and backend projects**
 - 💼 &nbsp; Available for **freelance development work**
-- 🌐 &nbsp; Portfolio — [saumaypathak.in](https://saumaypathak.in)
+- 🌐 &nbsp; [saumaypathak.in](https://saumaypathak.in)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Backend
+**Backend**
+
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -46,7 +45,8 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,7 +55,8 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Databases
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,7 +64,8 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### Cloud & DevOps
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -75,9 +77,9 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26"> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -91,7 +93,7 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🗣️ Top Languages
 
@@ -105,11 +107,11 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🚀 Featured Projects
 
-| 🛠️ Project | 📋 Description | ⚡ Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
 | **Project Management App** | Full-featured PM tool with real-time collaboration | Laravel, React, Redis |
 | **Ecommerce Platform** | Scalable multi-vendor ecommerce backend | PHP, MySQL, Redis |
@@ -117,7 +119,7 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 | **Portfolio Website** | Personal portfolio with animations | React, TailwindCSS |
 | **Inventory System** | Enterprise inventory & billing management | Laravel, PostgreSQL |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🐍 Contribution Snake
 
@@ -131,36 +133,23 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 💼 Freelance Availability
+## 💼 Open for Freelance
 
-<div align="center">
+I'm available for freelance projects across **SaaS Development**, **Full Stack Applications**, **Backend APIs**, and **System Architecture Design**.
 
-```
-╔══════════════════════════════════════════════════════╗
-║           🟢  OPEN FOR FREELANCE WORK                ║
-╠══════════════════════════════════════════════════════╣
-║  ✅  SaaS Platform Development                       ║
-║  ✅  Full Stack Web Applications                     ║
-║  ✅  Backend APIs & Microservices                    ║
-║  ✅  System Architecture & Design                    ║
-║  ✅  Performance Optimization                        ║
-╠══════════════════════════════════════════════════════╣
-║  📩  rajgkp2932002@gmail.com                         ║
-║  🌐  saumaypathak.in                                 ║
-╚══════════════════════════════════════════════════════╝
-```
+📩 [rajgkp2932002@gmail.com](mailto:rajgkp2932002@gmail.com) &nbsp;·&nbsp; 🌐 [saumaypathak.in](https://saumaypathak.in)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
-> *"First solve the problem. Then write the code."*
+*"First solve the problem. Then write the code."*
 
 <br/>
+
+⭐ **If you find my work useful, consider starring my repositories!**
 
 <br/>
 
