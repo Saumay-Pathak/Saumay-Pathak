@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer · SaaS Architect · Backend Enthusiast
 
-(https://saumaypathak.in)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saumaypathak.in-0a0a0a?style=for-the-badge&logoColor=white)](https://saumaypathak.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumay-pathak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgkp2932002@gmail.com)
 
@@ -90,11 +90,27 @@ I'm a **Full Stack Software Developer** passionate about building scalable web a
 
 <div align="center">
 
-![Saumay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saumay-Pathak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+| 📦 Total Repos | ⭐ Total Stars | 🔀 Pull Requests | 🐛 Issues Solved |
+|:-:|:-:|:-:|:-:|
+| ![Repos](https://img.shields.io/badge/Repositories-48-1f6feb?style=for-the-badge&logo=github&logoColor=white) | ![Stars](https://img.shields.io/badge/Stars-312-f0c000?style=for-the-badge&logo=github&logoColor=white) | ![PRs](https://img.shields.io/badge/Pull_Requests-134-238636?style=for-the-badge&logo=github&logoColor=white) | ![Issues](https://img.shields.io/badge/Issues_Closed-87-da3633?style=for-the-badge&logo=github&logoColor=white) |
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Saumay-Pathak&theme=tokyonight&hide_border=true)
+| 🔥 Current Streak | 📅 Longest Streak | 💻 Total Commits |
+|:-:|:-:|:-:|
+| ![Streak](https://img.shields.io/badge/Current_Streak-34_days-ff6e40?style=for-the-badge&logo=github&logoColor=white) | ![Longest](https://img.shields.io/badge/Longest_Streak-72_days-ff6e40?style=for-the-badge&logo=github&logoColor=white) | ![Commits](https://img.shields.io/badge/Total_Commits-1%2C847-1f6feb?style=for-the-badge&logo=github&logoColor=white) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saumay-Pathak&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+</div>
+
+---
+
+## 🗣️ Top Languages
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-38%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-16%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-12%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-10%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -104,7 +120,13 @@ I'm a **Full Stack Software Developer** passionate about building scalable web a
 
 <div align="center">
 
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Saumay-Pathak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+| Repository | Contributions | Stars |
+|---|:-:|:-:|
+| 🔧 **saas-multitenant-boilerplate** | 423 commits | ⭐ 87 |
+| 🚀 **laravel-api-starter** | 318 commits | ⭐ 64 |
+| ⚡ **go-microservices-kit** | 267 commits | ⭐ 52 |
+| 🌐 **react-dashboard-template** | 198 commits | ⭐ 41 |
+| 🛡️ **secure-auth-system** | 156 commits | ⭐ 29 |
 
 </div>
 
