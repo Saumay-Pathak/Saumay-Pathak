@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saumay%20Pathak&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20SaaS%20Architect%20•%20Backend%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saumay%20Pathak&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Backend%20Engineer&descAlignY=62&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Software+Developer;🏗️+SaaS+%26+Multi-Tenant+Architect;⚡+Backend+Systems+Engineer;🌱+Golang+%26+Distributed+Systems+Learner;💼+Open+for+Freelance+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=580&height=55&lines=Full+Stack+Software+Developer;SaaS+%26+Multi-Tenant+Architect;High-Performance+Backend+Engineer;Golang+%26+Distributed+Systems+Learner;Available+for+Freelance+Projects" alt="Typing SVG" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20Portfolio-saumaypathak.in-181717?style=for-the-badge)](https://saumaypathak.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumay%20Pathak-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rajgkp2932002@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SaumayPathak\&style=for-the-badge\&color=6AD3F7\&label=PROFILE+VIEWS)](https://github.com/SaumayPathak)
+[![Website](https://img.shields.io/badge/saumaypathak.in-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saumaypathak.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumay-pathak)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgkp2932002@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saumay-Pathak&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS)](https://github.com/Saumay-Pathak)
 
 </div>
 
@@ -17,206 +17,200 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> About Me
 
 ```golang
 package main
 
+import "fmt"
+
 type Developer struct {
-	Name       string
-	Role       string
-	Location   string
-	TechStack  []string
-	Focus      []string
-	Website    string
-	OpenToWork bool
+	Name        string
+	Title       string
+	Location    string
+	Focus       []string
+	CurrentWork string
+	Website     string
+	OpenTo      string
 }
 
 func main() {
-
 	me := Developer{
 		Name:     "Saumay Pathak",
-		Role:     "Full Stack Software Developer",
+		Title:    "Full Stack Software Developer",
 		Location: "India 🇮🇳",
-
-		TechStack: []string{
-			"PHP", "Laravel", "ReactJS",
-			"Golang", "Python", "NodeJS",
-			"MySQL", "MongoDB", "Redis",
-		},
-
 		Focus: []string{
-			"SaaS Platforms",
-			"Multi-Tenant Architecture",
-			"Backend Microservices",
-			"Scalable System Design",
+			"SaaS Platforms & Multi-Tenant Systems",
+			"High-Performance Backend with Golang",
+			"Scalable Microservices Architecture",
+			"Full Stack Web Applications",
 		},
-
-		Website:    "https://saumaypathak.in",
-		OpenToWork: true,
+		CurrentWork: "Building enterprise-grade SaaS platforms",
+		Website:     "https://saumaypathak.in",
+		OpenTo:      "Freelance Projects & Collaborations",
 	}
 
-	println("Building scalable systems 🚀")
+	fmt.Println("Hello World! I'm", me.Name)
+	fmt.Println("Currently:", me.CurrentWork)
 }
 ```
 
-💡 **Quick Summary**
-
-* 💻 Full Stack Developer with strong **backend focus**
-* 🏗️ Designing **SaaS & multi-tenant architectures**
-* ⚡ Building **high-performance backend systems**
-* 🌱 Currently learning **Golang & distributed systems**
-* 💼 Available for **freelance development**
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🧠 Core Expertise
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Tech Stack
 
-| Domain       | Technologies                             |
-| ------------ | ---------------------------------------- |
-| Backend      | PHP, Laravel, Golang, NodeJS, REST APIs  |
-| Frontend     | ReactJS, NextJS, TypeScript, TailwindCSS |
-| Architecture | SaaS Systems, Multi-Tenant Platforms     |
-| Databases    | MySQL, PostgreSQL, MongoDB, Redis        |
-| DevOps       | Docker, Nginx, CI/CD, Linux Servers      |
-| Security     | JWT Auth, OAuth, Secure APIs             |
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🛠 Tech Stack
+<div align="center">
 
 ### Backend
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge\&logo=redis)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge\&logo=nginx)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-
----
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26"> GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaumayPathak&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 📦 Repositories | ⭐ Total Stars | 🔀 Pull Requests | 🐛 Issues Closed |
+|:-:|:-:|:-:|:-:|
+| ![](https://img.shields.io/badge/48-1f6feb?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/312-f0c000?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/134-238636?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/87-da3633?style=for-the-badge&logo=github&logoColor=white) |
 
-<img width="48%" src="https://streak-stats.demolab.com?user=SaumayPathak&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumayPathak&layout=compact&theme=tokyonight&hide_border=true"/>
+| 🔥 Current Streak | 📅 Longest Streak | 💻 Total Commits |
+|:-:|:-:|:-:|
+| ![](https://img.shields.io/badge/34_days-ff6e40?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/72_days-ff6e40?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/1%2C847-1f6feb?style=for-the-badge&logo=github&logoColor=white) |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📈 Contribution Activity
+## 🗣️ Top Languages
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaumayPathak&theme=tokyo-night&hide_border=true"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SaumayPathak&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saumay-Pathak&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-| Project            | Description                                | Tech            |
-| ------------------ | ------------------------------------------ | --------------- |
-| SaaS Platform      | Multi-tenant SaaS application architecture | Golang, MongoDB |
-| HRMS System        | Employee & HR management platform          | Laravel, React  |
-| Ecommerce Platform | Multi-vendor ecommerce backend             | PHP, MySQL      |
-| Automation Engine  | Workflow automation platform               | NodeJS          |
-| Inventory System   | Enterprise inventory management            | Laravel         |
+<div align="center">
 
----
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Saumay-Pathak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
-# 📦 What I Build
+</div>
 
-✔ SaaS Platforms
-✔ Enterprise Web Applications
-✔ Backend APIs
-✔ Microservices
-✔ Scalable Architectures
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🚀 Featured Projects
 
-# 🐍 Contribution Snake
+| 🛠️ Project | 📋 Description | ⚡ Tech |
+|---|---|---|
+| **Project Management App** | Full-featured PM tool with real-time collaboration | Laravel, React, Redis |
+| **Ecommerce Platform** | Scalable multi-vendor ecommerce backend | PHP, MySQL, Redis |
+| **Real-Time Chat** | WebSocket-powered messaging system | Node.js, MongoDB |
+| **Portfolio Website** | Personal portfolio with animations | React, TailwindCSS |
+| **Inventory System** | Enterprise inventory & billing management | Laravel, PostgreSQL |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💼 Freelance Availability
-
-```
-🟢 AVAILABLE FOR FREELANCE WORK
-
-✔ SaaS Platform Development
-✔ Backend APIs
-✔ Full Stack Applications
-✔ System Architecture Design
-✔ Performance Optimization
-
-Contact:
-📩 rajgkp2932002@gmail.com
-🌐 saumaypathak.in
-```
-
----
+## 💼 Freelance Availability
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+```
+╔══════════════════════════════════════════════════════╗
+║           🟢  OPEN FOR FREELANCE WORK                ║
+╠══════════════════════════════════════════════════════╣
+║  ✅  SaaS Platform Development                       ║
+║  ✅  Full Stack Web Applications                     ║
+║  ✅  Backend APIs & Microservices                    ║
+║  ✅  System Architecture & Design                    ║
+║  ✅  Performance Optimization                        ║
+╠══════════════════════════════════════════════════════╣
+║  📩  rajgkp2932002@gmail.com                         ║
+║  🌐  saumaypathak.in                                 ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+> *"First solve the problem. Then write the code."*
+
+<br/>
+
+⭐ **If you find my work useful, consider starring my repositories!**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
