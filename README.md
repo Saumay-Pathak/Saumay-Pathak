@@ -116,7 +116,6 @@ I specialize in **PHP, Laravel, and React.js** while expanding into **Golang for
 | **Project Management App** | Full-featured PM tool with real-time collaboration | Laravel, React, Redis |
 | **Ecommerce Platform** | Scalable multi-vendor ecommerce backend | PHP, MySQL, Redis |
 | **Real-Time Chat** | WebSocket-powered messaging system | Node.js, MongoDB |
-| **Portfolio Website** | Personal portfolio with animations | React, TailwindCSS |
 | **Inventory System** | Enterprise inventory & billing management | Laravel, PostgreSQL |
 
 ---
