@@ -149,9 +149,6 @@ I'm available for freelance projects across **SaaS Development**, **Full Stack A
 
 <br/>
 
-⭐ **If you find my work useful, consider starring my repositories!**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
