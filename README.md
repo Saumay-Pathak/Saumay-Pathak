@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer · SaaS Architect · Backend Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-saumaypathak.in-0a0a0a?style=for-the-badge&logoColor=white)](https://saumaypathak.in)
+(https://saumaypathak.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumay-pathak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajgkp2932002@gmail.com)
 
